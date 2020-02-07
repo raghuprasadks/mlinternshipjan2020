@@ -1,0 +1,15 @@
+Github
+
+1. Register using https://github.com/
+2. Download git https://git-scm.com/downloads
+3. Clone a git repository
+
+search for the repository and get the repository link
+
+https://github.com/mahesh147/Simple-Linear-Regression.git
+
+git clone https://github.com/mahesh147/Simple-Linear-Regression.git
+
+4. git pull https://github.com/mahesh147/Simple-Linear-Regression.git
+
+
