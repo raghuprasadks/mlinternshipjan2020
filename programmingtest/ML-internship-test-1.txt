@@ -1,4 +1,4 @@
-1. Data of 50_Startups is available in 50_Startups.xlsx .
+1. Data of 50_Startups is available in 50_Startups.csv .
 Investers are looking to invest in companies
 based on the dataset. As a data scientist
 come up with a linear regression model to 
@@ -7,5 +7,5 @@ help them to predict the profit.
 2. A company is seeking your help
 to build a model to predict whether a customer is
 going to buy their upcoming produt
-based on the previous data (Social_Network_Ads.xlsx) they gathered
+based on the previous data (Social_Network_Ads.csv) they gathered
 as part of their social media campaign
